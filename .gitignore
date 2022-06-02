@@ -3,3 +3,4 @@ public.tar.gz
 .vscode/
 .hugo_build.lock
 themes/
+info.txt
